@@ -34,7 +34,6 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
 <a href= https://github.com/SThevenot?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/SThevenot?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/SThevenot?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
 <a href= https://github.com/SThevenot?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/SThevenot?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
 
