@@ -15,10 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on refactoring my projects
-- 🌱 I’m currently learning Python, React, and AWS
-- 👯 I’m looking to collaborate on Projects
-- 💬 Ask me about Sql, Boostrap, React, JavaScript
+- 🔭 I’m currently working on algorithms.
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about Boostrap, React, or JavaScript
 - ⚡ Fun fact: I love Korean BBQ.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
