@@ -41,13 +41,3 @@
 <a href = 'https://open.spotify.com/user/connfetti007?si=b4e9d125354c4ec2&nd=1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg"/></a> 
 <a href = 'https://sthevenot.github.io/portfolio-v2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/SThevenot'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SThevenot&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SThevenot&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SThevenot&theme=tokyonight)                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SThevenot&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SThevenot&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
